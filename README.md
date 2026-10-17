@@ -10,7 +10,7 @@
 ---
 
 ### 👨‍💻 About Me
-👋 Hi! I'm Red-Friky
+👋 Hi! I'm Red
 🎓 I'm a student currently learning Python
 ⚔️ Explorer of Hallownest and code
 🎮 My goal is to create my own game
