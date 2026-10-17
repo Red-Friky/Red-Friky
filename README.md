@@ -1,16 +1,15 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Red-Friky;Explorer+of+Hallownest;Learning+to+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=900&color=9B59B6&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Red-Friky;Student+%26+Python+Learner;I+want+to+create+games" alt="Typing SVG" />
 
   <br><br>
 
-  <!-- GIF 1 -->
-  <img src="https://media.tenor.com/3Y1Y5Y5Y5Y5AAAAC/hollow-knight.gif" width="280" alt="Hollow Knight">
-
-  <br><br>
-
-  <!-- GIF 2 -->
-  <img src="https://i.imgur.com/8QZQZQZ.gif" width="220" alt="The Knight">
+  <!-- GIFs de Hollow Knight -->
+  <img src="https://media.tenor.com/3Y1Y5Y5Y5Y5AAAAC/hollow-knight.gif" width="220" alt="Hollow Knight">
+  &nbsp;&nbsp;
+  <img src="https://i.imgur.com/8QZQZQZ.gif" width="180" alt="The Knight">
+  &nbsp;&nbsp;
+  <img src="https://media.tenor.com/3Y1Y5Y5Y5Y5AAAAC/hollow-knight.gif" width="220" alt="Hollow Knight">
 
 </div>
 
@@ -18,15 +17,15 @@
 
 ### 👨‍💻 About Me
 👋 Hi! I'm Red-Friky
+🎓 I'm a student currently learning Python
 ⚔️ Explorer of Hallownest and code
+🎮 My goal is to create my own game
 💻 Passionate about programming and indie games
-🐍 Favorite language: Python
-🚀 Currently learning and improving my skills
-🎯 I like creating projects and experimenting
+🚀 Always learning and improving my skills
 🌟 "No voice to cry suffering"
 ---
 
-### 🛠️ Technologies I use / I'm learning
+### 🛠️ Technologies I'm learning
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" />
@@ -37,15 +36,26 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Red-Friky&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9B59B6&icon_color=9B59B6&text_color=FFFFFF"/>
-  
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Red-Friky&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9B59B6&text_color=FFFFFF&langs_count=1&custom_title=Most%20Used%20Language&hide=html,css,javascript"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Red-Friky&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9B59B6&icon_color=9B59B6&text_color=FFFFFF"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Red-Friky&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9B59B6&text_color=FFFFFF&langs_count=1&custom_title=Most%20Used%20Language"/>
 </div>
 
 <br>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Red-Friky&theme=radical&hide_border=true&background=0D1117&stroke=9B59B6&ring=9B59B6&fire=9B59B6&currStreakLabel=9B59B6" alt="GitHub Streak"/>
+</div>
+
+---
+
+### ⚔️ Hollow Knight Vibes
+
+<div align="center">
+  <img src="https://media.tenor.com/3Y1Y5Y5Y5Y5AAAAC/hollow-knight.gif" width="200">
+  &nbsp;
+  <img src="https://i.imgur.com/8QZQZQZ.gif" width="160">
+  &nbsp;
+  <img src="https://media.tenor.com/3Y1Y5Y5Y5Y5AAAAC/hollow-knight.gif" width="200">
 </div>
 
 ---
