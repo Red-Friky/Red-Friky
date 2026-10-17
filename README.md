@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,50:4169E1,100:00008B&height=180&section=header&text=Red-Friky&fontSize=42&fontColor=fff&animation=fadeIn" width="100%">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=900&color=9B59B6&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Red-Friky;Student+%26+Python+Learner;I+want+to+create+games" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,50:4169E1,100:00008B&height=180&section=header&text=Red&fontSize=42&fontColor=fff&animation=fadeIn" width="100%">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=900&color=9B59B6&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Red;Student+%26+Python+Learner;I+want+to+create+games" alt="Typing SVG" />
 
   <br><br>
 
