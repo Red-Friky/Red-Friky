@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 👋 Hi! I'm Red-Friky
-🇨🇴 Based in Colombia
+   Based in Colombia
 ⚔️ Explorer of Hallownest and code
 💻 Passionate about programming and indie games
 🐍 Favorite language: Python
