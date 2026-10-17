@@ -10,12 +10,13 @@
 ---
 
 ### 👨‍💻 About Me
-👋 Hi! I'm Red
-🎓 I'm a student currently learning Python
+👋 Hi! I'm Red-Friky
+🇨🇴 Based in Colombia
 ⚔️ Explorer of Hallownest and code
-🎮 My goal is to create my own game
 💻 Passionate about programming and indie games
-🚀 Always learning and improving my skills
+🐍 Favorite language: Python
+🚀 Currently learning and improving my skills
+🎯 I like creating projects and experimenting
 🌟 "No voice to cry suffering"
 ---
 
